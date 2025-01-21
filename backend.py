@@ -77,7 +77,7 @@ url = "https://realpython.github.io/fake-jobs/"
 # Налаштування для підключення до MySQL
 host = "localhost"
 user = "root"
-password = "lo123TAV"
+password = "lo123223"
 database = "my_database"
 
 # Ініціалізація об'єктів
